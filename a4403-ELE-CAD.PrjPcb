@@ -142,7 +142,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VSEEZNRO
 
 [Document6]
-DocumentPath=VBUS.SchDoc
+DocumentPath=VDUT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
