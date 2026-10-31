@@ -402,7 +402,7 @@ UniqueId=E90763DC-3CA2-4722-A50A-689F8B9754F5
 Description=SMT
 AllowFabrication=0
 ParameterCount=1
-VariationCount=62
+VariationCount=73
 Variation1=Designator=U1|UniqueId=\MLBYVDOQ\XBKDEBHW|Kind=1|AlternatePart=
 Variation2=Designator=J1|UniqueId=\MLBYVDOQ\IBVFEUVX|Kind=1|AlternatePart=
 Variation3=Designator=J2|UniqueId=\MLBYVDOQ\FUMFSXMB|Kind=1|AlternatePart=
@@ -465,6 +465,17 @@ Variation59=Designator=SW3|UniqueId=\GFEVFRBH\IJIZXBZG|Kind=1|AlternatePart=
 Variation60=Designator=R45|UniqueId=\IZJOZBVU\SVVKUUAT|Kind=1|AlternatePart=
 Variation61=Designator=R135|UniqueId=\IVQUPLET|Kind=1|AlternatePart=
 Variation62=Designator=R136|UniqueId=\ZUFZXELM|Kind=1|AlternatePart=
+Variation63=Designator=U27|UniqueId=\QUWCIYJN\FHNZPDDT|Kind=1|AlternatePart=
+Variation64=Designator=C133|UniqueId=\QUWCIYJN\TBIZWIJT|Kind=0|AlternatePart=
+Variation65=Designator=C134|UniqueId=\QUWCIYJN\DFYFXISW|Kind=0|AlternatePart=
+Variation66=Designator=Q2|UniqueId=\IZJOZBVU\IQAVBNXZ|Kind=0|AlternatePart=
+Variation67=Designator=R41|UniqueId=\IZJOZBVU\PFQKRAAB|Kind=0|AlternatePart=
+Variation68=Designator=R43|UniqueId=\IZJOZBVU\HFPJRWHC|Kind=0|AlternatePart=
+Variation69=Designator=R39|UniqueId=\IZJOZBVU\RMHLWWSS|Kind=0|AlternatePart=
+Variation70=Designator=U12|UniqueId=\IZJOZBVU\ABCPYVHZ|Kind=0|AlternatePart=
+Variation71=Designator=C45|UniqueId=\IZJOZBVU\QEEYQWOT|Kind=0|AlternatePart=
+Variation72=Designator=R46|UniqueId=\IZJOZBVU\KPNZEGYL|Kind=0|AlternatePart=
+Variation73=Designator=C46|UniqueId=\IZJOZBVU\QNGNEOKV|Kind=0|AlternatePart=
 ParamVariationCount=0
 
 [Parameter2_1]
