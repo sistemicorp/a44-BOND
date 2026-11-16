@@ -47,6 +47,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=SMT
 
 [Preferences]
 PrefsVaultGUID=
@@ -469,7 +470,7 @@ UniqueId=E90763DC-3CA2-4722-A50A-689F8B9754F5
 Description=SMT
 AllowFabrication=0
 ParameterCount=1
-VariationCount=96
+VariationCount=98
 Variation1=Designator=U1|UniqueId=\MLBYVDOQ\XBKDEBHW|Kind=1|AlternatePart=
 Variation2=Designator=J1|UniqueId=\MLBYVDOQ\IBVFEUVX|Kind=1|AlternatePart=
 Variation3=Designator=J2|UniqueId=\MLBYVDOQ\FUMFSXMB|Kind=1|AlternatePart=
@@ -566,6 +567,8 @@ Variation93=Designator=R149|UniqueId=\HVWAYNBC\CFJQDBSO|Kind=1|AlternatePart=
 Variation94=Designator=R151|UniqueId=\HVWAYNBC\HOSNIBQY|Kind=1|AlternatePart=
 Variation95=Designator=R153|UniqueId=\HVWAYNBC\AWUZPMVB|Kind=1|AlternatePart=
 Variation96=Designator=R155|UniqueId=\HVWAYNBC\YFLMZTDE|Kind=1|AlternatePart=
+Variation97=Designator=R72|UniqueId=\FSMCSARO\NYOJABWY|Kind=1|AlternatePart=
+Variation98=Designator=R74|UniqueId=\FSMCSARO\AZSWLBUL|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter2_1]
